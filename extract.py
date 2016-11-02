@@ -4,7 +4,6 @@
 import sys
 import os.path
 import re
-# TODO: use re.compile...
 
 
 class Color:
